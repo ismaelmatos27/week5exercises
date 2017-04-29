@@ -1,0 +1,32 @@
+.navbar{
+  background-color: pink;
+  margin: 0;
+
+}
+.col-md-4{
+  text-align: center;
+  height: 100px;
+  width: 33%;
+}
+.jumbotron{
+  text-align: center;
+}
+.btn-primary{
+  background-color:green;
+  border-color:black;
+  color:purple;
+}
+button{
+  background-color: purple;
+  border-color:green;
+  color:white;
+}
+.btn-default{
+  background-color: purple;
+  border-color:green;
+  color:white;
+}
+.pics{
+  width: 85%;
+  height:150px;
+}
